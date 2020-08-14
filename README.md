@@ -2,7 +2,9 @@
 Princeton - Algorithms I - Week 2 Deques and Randomized Queues Assignment This Homework got 92 out of 100. Enqueue and Dequeue have some bug error. Can't find yet!
 
 Correctness:  42/45 tests passed
+
 Memory:       106/123 tests passed
+
 Timing:       170/193 tests passed
 
 Write a generic data type for a deque and a randomized queue. The goal of this assignment is to implement elementary data structures using arrays and linked lists, and to introduce you to generics and iterators.

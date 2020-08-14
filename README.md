@@ -38,6 +38,7 @@ public class Deque<Item> implements Iterable<Item> {
     public static void main(String[] args)
 
 }
+
 Corner cases.  Throw the specified exception for the following corner cases:
 
 Throw an IllegalArgumentException if the client calls either addFirst() or addLast() with a null argument.
@@ -77,6 +78,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     public static void main(String[] args)
 
 }
+
 Iterator.  Each iterator must return the items in uniformly random order. The order of two or more iterators to the same randomized queue must be mutually independent; each iterator must maintain its own random order.
 
 Corner cases.  Throw the specified exception for the following corner cases:
@@ -98,6 +100,7 @@ Your program must implement the following API:
 public class Permutation {
    public static void main(String[] args)
 }
+
 Command-line argument.  You may assume that 0 ≤ k ≤ n, where n is the number of string on standard input. Note that you are not given n.
 
 Performance requirements.  The running time of Permutation must be linear in the size of the input. You may use only a constant amount of memory plus either one Deque or RandomizedQueue object of maximum size at most n. (For an extra challenge and a small amount of extra credit, use only one Deque or RandomizedQueue object of maximum size at most k.)

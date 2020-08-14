@@ -1,5 +1,5 @@
 # Deques-and-Randomized-Queues
-Princeton - Algorithms I - Week 2 Deques and Randomized Queues Assignment This Homework got 92 out of 100. Enqueue and Dequeue have some bug error. Can't find yet!
+Princeton - Algorithms I - Week 2 Deques and Randomized Queues Assignment This Homework got 92 out of 100. Enqueue and Dequeue have some bug errors. Can't find yet!
 
 Correctness:  42/45 tests passed
 
